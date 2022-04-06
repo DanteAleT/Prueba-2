@@ -1,8 +1,8 @@
-let plataCofla = prompt("cuanto dinero tenes?");
+/* let plataCofla = prompt("cuanta plata tenes?");
 
 plataCofla = parseInt(plataCofla);
 
-//palito helado : 0.6 
+//palito helado : 0.6
 //palito helado de crema: 1
 //bombon helado marca heladix: 1.6
 //bombon helado marca heladovich: 1.7
@@ -27,4 +27,8 @@ else if(plataCofla >= 2.9){  alert(
 else if (plataCofla < 0.6){alert(
 "no te alcanza la plata")    
 }
-else{alert("no es un valor valido")};     
+else{alert("no es un valor valido")};    */
+
+while(2 > 1){
+    alert("verdadero")
+} 
